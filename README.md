@@ -10,9 +10,8 @@ The dataset spans approximately 10 years and includes daily weather observations
 The weather observations were sourced from numerous weather stations, with daily observations available from the Bureau of Meteorology. Definitions were adapted from the Bureau of Meteorology.
 
 ## 🚀 Getting Started
-1. **Clone the repo:** `git clone https://github.com/yourusername/your-repo-name.git`
-2. **Install required packages:** `pip install -r requirements.txt`
-3. **Run the Jupyter notebook:** `jupyter notebook your-notebook-name.ipynb`
+1. **Clone the repo:** `git clone https://github.com/Radhey-007/weather-prediction.git`
+2. **Run the Jupyter notebook:** `jupyter notebook Weather prediction.ipynb`
 
 ## 📈 Results
 In this project, we trained several machine learning models to predict next-day rain in Australia. Here's a summary of how each model performed:
