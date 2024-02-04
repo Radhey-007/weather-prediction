@@ -15,7 +15,22 @@ The weather observations were sourced from numerous weather stations, with daily
 3. **Run the Jupyter notebook:** `jupyter notebook your-notebook-name.ipynb`
 
 ## 📈 Results
-*Include a summary of the results here.*
+In this project, we trained several machine learning models to predict next-day rain in Australia. Here's a summary of how each model performed:
+
+| Model                 | Score    |
+|-----------------------|----------|
+| Logistic Regression   | 0.846865 |
+| k-Nearest Neighbors   | 0.839887 |
+| GaussianNB            | 0.662106 |
+| SVM                   | 0.831088 |
+
+The **Logistic Regression** model achieved the highest score of **0.846865**, making it the most effective model for this dataset.
+
+!Model Performance
+
+*Above is a bar chart illustrating the performance of each model.*
+
+These results demonstrate the effectiveness of machine learning in predicting weather patterns. Future work could explore the use of more complex models or the inclusion of additional features to further improve prediction accuracy.
 
 ## 📜 License
 This project is licensed under the terms of the MIT license.
