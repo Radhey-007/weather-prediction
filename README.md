@@ -26,7 +26,7 @@ In this project, we trained several machine learning models to predict next-day 
 
 The **Logistic Regression** model achieved the highest score of **0.846865**, making it the most effective model for this dataset.
 
-!Model Performance
+![Model Performance]./model_performance.png
 
 *Above is a bar chart illustrating the performance of each model.*
 
