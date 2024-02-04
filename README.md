@@ -36,4 +36,4 @@ These results demonstrate the effectiveness of machine learning in predicting we
 This project is licensed under the terms of the MIT license.
 
 ## 📫 Contact
-*Radhey Gawand* - *rgawand008@gmail.com* - *[Your LinkedIn](https://www.linkedin.com/in/radhey-gawand-83746218b/)https://www.linkedin.com/in/radhey-gawand-83746218b/*
+*Radhey Gawand* - *rgawand008@gmail.com* - *[LinkedIn]https://www.linkedin.com/in/radhey-gawand-83746218b/
